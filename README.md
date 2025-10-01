@@ -47,7 +47,6 @@ If you’d like to connect or collaborate, feel free to <a href="mailto:marciogu
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-web-services)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 
